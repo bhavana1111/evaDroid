@@ -1,4 +1,4 @@
-## How to run RAG scrip
+## How to run RAG script
 
 1. we need to go to rag_index.py
 2. Then we it will be hitting main file in RAG_Button_selection folder
