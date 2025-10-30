@@ -1,0 +1,936 @@
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.framelayout[0]
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.view.viewgroup[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.view.view[0], inside android.widget.framelayout
+- A button labeled "vio.com | omni las colinas hotel | get a better deal.", with class android.widget.framelayout[1], inside android.widget.framelayout
+- A button with no visible label, with class android.view.view[0], inside android.webkit.webview
+- A button with no visible label, with class android.view.view[1], inside android.view.view
+- A button with no visible label, with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.view.view[0], inside android.view.view
+- A button described as "vio.com", with class android.view.view[0], inside android.view.view
+- A button labeled "vio.com", with class android.view.view[0], inside android.view.view
+- A button labeled "vio.com", with class android.widget.image[0], inside android.view.view
+- A button labeled "omni las colinas hotel apr 24 - apr 30 · 2 guests, 1 room", with class android.view.view[1], inside android.view.view
+- A button labeled "omni las colinas hotel apr 24 - apr 30 · 2 guests, 1 room", with class android.widget.button[0], inside android.view.view
+- A button with no visible label, with class android.widget.button[2], inside android.view.view
+- A button with no visible label, with class android.view.view[3], inside android.view.view
+- A button with no visible label, with class android.widget.edittext[0], inside android.view.view
+- A button with no visible label, with class android.view.view[4], inside android.view.view
+- A button labeled "sort", with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.widget.button[0], inside android.view.view
+- A button labeled "sort", with class android.widget.button[1], inside android.view.view
+- A button labeled "price", with class android.widget.button[2], inside android.view.view
+- A button labeled "4 to 5-star", with class android.widget.button[3], inside android.view.view
+- A button labeled "8.0+ rating", with class android.widget.button[4], inside android.view.view
+- A button with no visible label, with class android.widget.textview[1], inside android.view.view
+- A button with no visible label, with class android.view.view[1], inside android.view.view
+- A button labeled "map", with class android.view.view[0], inside android.view.view
+- A button labeled "map", with class android.widget.button[0], inside android.view.view
+- A button with no visible label, with class android.view.view[1], inside android.view.view
+- A button with no visible label, with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.view.view[7], inside android.view.view
+- A button with no visible label, with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.view.view[0], inside android.view.view
+- A button labeled "omni las colinas hotel  ·  apr 24 - apr 30", with class android.view.view[0], inside android.view.view
+- A button labeled "omni las colinas hotel  ·  apr 24 - apr 30", with class android.widget.button[0], inside android.view.view
+- A button with no visible label, with class android.widget.button[1], inside android.view.view
+- A button with no visible label, with class android.view.view[2], inside android.view.view
+- A button labeled "sort", with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.widget.button[0], inside android.view.view
+- A button labeled "sort", with class android.widget.button[1], inside android.view.view
+- A button labeled "price", with class android.widget.button[2], inside android.view.view
+- A button labeled "4 to 5-star", with class android.widget.button[3], inside android.view.view
+- A button labeled "8.0+ rating", with class android.widget.button[4], inside android.view.view
+- A button with no visible label, with class android.widget.edittext[1], inside android.view.view
+- A button with no visible label, with class android.view.view[2], inside android.view.view
+- A button with no visible label, with class android.view.view[0], inside android.view.view
+- A button labeled "toggle layers", with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.widget.button[0], inside android.view.view
+- A button labeled "toggle layers", with class android.widget.button[1], inside android.view.view
+- A button with no visible label, with class android.view.view[1], inside android.view.view
+- A button labeled "omni las colinas hotel 8.8 fabulous ( 961 ) well-priced internet · plenty of parking on-site · the pool was great ₹32,831 / night", with class android.view.view[0], inside android.view.view
+- A button labeled "omni las colinas hotel 8.8 fabulous ( 961 ) well-priced internet · plenty of parking on-site · the pool was great ₹32,831 / night", with class android.widget.button[0], inside android.view.view
+- A button labeled "texican court, by valencia hotel collection 9.2 superb ( 962 ) ₹20,747 ₹16,217 / night", with class android.view.view[1], inside android.view.view
+- A button labeled "texican court, by valencia hotel collection 9.2 superb ( 962 ) ₹20,747 ₹16,217 / night", with class android.widget.button[0], inside android.view.view
+- A button labeled "map", with class android.view.view[3], inside android.view.view
+- A button labeled "map", with class android.view.view[0], inside android.view.view
+- A button labeled "map marker", with class android.widget.image[6], inside android.view.view
+- A button labeled "map marker", with class android.widget.image[7], inside android.view.view
+- A button labeled "map marker", with class android.widget.image[10], inside android.view.view
+- A button labeled "map marker", with class android.widget.image[20], inside android.view.view
+- A button labeled "map marker", with class android.widget.image[21], inside android.view.view
+- A button with no visible label, with class android.widget.textview[0], inside android.view.view
+- A button with no visible label, with class android.widget.framelayout[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button described as "close tab", with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button described as "close tab", with class android.widget.imagebutton[0], inside android.widget.linearlayout
+- A button described as "minimise tab", with class android.widget.imagebutton[1], inside android.widget.linearlayout
+- A button described as "connection is secure", with class android.widget.framelayout[1], inside android.widget.framelayout
+- A button described as "connection is secure", with class android.widget.imagebutton[0], inside android.widget.framelayout
+- A button labeled "vio.com | omni las colinas hotel | get a better deal.", with class android.widget.framelayout[1], inside android.widget.framelayout
+- A button labeled "vio.com | omni las colinas hotel | get a better deal.", with class android.widget.textview[0], inside android.widget.framelayout
+- A button labeled "vio.com", with class android.widget.linearlayout[1], inside android.widget.framelayout
+- A button labeled "vio.com", with class android.widget.textview[0], inside android.widget.linearlayout
+- A button described as "share", with class android.widget.linearlayout[2], inside android.widget.framelayout
+- A button described as "share", with class android.widget.imagebutton[0], inside android.widget.linearlayout
+- A button described as "customise and control google chrome", with class android.widget.framelayout[3], inside android.widget.framelayout
+- A button described as "customise and control google chrome", with class android.widget.imagebutton[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.imageview[1], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[2], inside android.view.viewgroup
+- A button with no visible label, with class android.view.view[1], inside android.widget.framelayout
+
+Previously clicked buttons in this session:
+- A button labeled "sort", with class android.view.view[0], inside android.view.view
+Next button selected: Sort
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.framelayout[0]
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.scrollview[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.scrollview
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button labeled "where to?", with class android.view.viewgroup[0], inside android.widget.framelayout
+- A button labeled "where to?", with class android.widget.textview[0], inside android.view.viewgroup
+- A button described as "messages", with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.imageview[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[2], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[0], inside android.widget.linearlayout
+- A button labeled "places to go, things to do, hotels…", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.imageview[0], inside android.view.viewgroup
+- A button labeled "places to go, things to do, hotels…", with class android.widget.edittext[1], inside android.view.viewgroup
+- A button described as "you might also like", with class androidx.recyclerview.widget.recyclerview[1], inside android.widget.scrollview
+- A button labeled "looking for something nearby?", with class android.view.viewgroup[0], inside androidx.recyclerview.widget.recyclerview
+- A button with no visible label, with class android.widget.imageview[0], inside android.view.viewgroup
+- A button labeled "looking for something nearby?", with class android.widget.textview[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.imageview[2], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.imageview[3], inside android.view.viewgroup
+- A button labeled "irving, tx", with class android.widget.textview[4], inside android.view.viewgroup
+- A button with no visible label, with class android.view.view[1], inside androidx.recyclerview.widget.recyclerview
+- A button labeled "you might also like", with class android.widget.textview[0], inside android.view.viewgroup
+- A button labeled "irving", with class android.view.viewgroup[0], inside androidx.recyclerview.widget.recyclerview
+- A button with no visible label, with class android.widget.imageview[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.imageview[1], inside android.view.viewgroup
+- A button labeled "irving", with class android.widget.textview[2], inside android.view.viewgroup
+- A button labeled "united states", with class android.widget.textview[3], inside android.view.viewgroup
+- A button labeled "houston", with class android.view.viewgroup[1], inside androidx.recyclerview.widget.recyclerview
+- A button with no visible label, with class android.widget.imageview[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.imageview[1], inside android.view.viewgroup
+- A button labeled "houston", with class android.widget.textview[2], inside android.view.viewgroup
+- A button labeled "united states", with class android.widget.textview[3], inside android.view.viewgroup
+- A button with no visible label, with class android.view.view[4], inside androidx.recyclerview.widget.recyclerview
+- A button with no visible label, with class androidx.compose.ui.platform.composeview[5], inside androidx.recyclerview.widget.recyclerview
+- A button with no visible label, with class android.view.view[0], inside androidx.compose.ui.platform.composeview
+- A button labeled "recently viewed", with class android.view.view[0], inside android.view.view
+- A button labeled "recently viewed", with class android.widget.textview[0], inside android.view.view
+- A button with no visible label, with class android.view.view[6], inside androidx.recyclerview.widget.recyclerview
+- A button with no visible label, with class android.widget.framelayout[1], inside android.widget.linearlayout
+- A button described as "home", with class android.widget.framelayout[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.framelayout[1], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.imageview[0], inside android.widget.framelayout
+- A button described as "search", with class android.widget.framelayout[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.framelayout[1], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.imageview[0], inside android.widget.framelayout
+- A button described as "trips", with class android.widget.framelayout[2], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.imageview[0], inside android.widget.framelayout
+- A button described as "review", with class android.widget.framelayout[3], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.framelayout[1], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.imageview[0], inside android.widget.framelayout
+- A button described as "account", with class android.widget.framelayout[4], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.framelayout[1], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.imageview[0], inside android.widget.framelayout
+- A button with no visible label, with class android.view.view[1], inside android.widget.framelayout
+
+Previously clicked buttons in this session:
+- A button described as "search", with class android.widget.framelayout[1], inside android.view.viewgroup
+Next button selected: Search
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.framelayout[0]
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.scrollview[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.scrollview
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button labeled "where to?", with class android.view.viewgroup[0], inside android.widget.framelayout
+- A button labeled "where to?", with class android.widget.textview[0], inside android.view.viewgroup
+- A button described as "messages", with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.imageview[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[2], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[0], inside android.widget.linearlayout
+- A button labeled "places to go, things to do, hotels…", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.imageview[0], inside android.view.viewgroup
+- A button labeled "places to go, things to do, hotels…", with class android.widget.edittext[1], inside android.view.viewgroup
+- A button described as "you might also like", with class androidx.recyclerview.widget.recyclerview[1], inside android.widget.scrollview
+- A button labeled "looking for something nearby?", with class android.view.viewgroup[0], inside androidx.recyclerview.widget.recyclerview
+- A button with no visible label, with class android.widget.imageview[0], inside android.view.viewgroup
+- A button labeled "looking for something nearby?", with class android.widget.textview[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.imageview[2], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.imageview[3], inside android.view.viewgroup
+- A button labeled "irving, tx", with class android.widget.textview[4], inside android.view.viewgroup
+- A button with no visible label, with class android.view.view[1], inside androidx.recyclerview.widget.recyclerview
+- A button labeled "you might also like", with class android.widget.textview[0], inside android.view.viewgroup
+- A button labeled "irving", with class android.view.viewgroup[0], inside androidx.recyclerview.widget.recyclerview
+- A button with no visible label, with class android.widget.imageview[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.imageview[1], inside android.view.viewgroup
+- A button labeled "irving", with class android.widget.textview[2], inside android.view.viewgroup
+- A button labeled "united states", with class android.widget.textview[3], inside android.view.viewgroup
+- A button labeled "houston", with class android.view.viewgroup[1], inside androidx.recyclerview.widget.recyclerview
+- A button with no visible label, with class android.widget.imageview[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.imageview[1], inside android.view.viewgroup
+- A button labeled "houston", with class android.widget.textview[2], inside android.view.viewgroup
+- A button labeled "united states", with class android.widget.textview[3], inside android.view.viewgroup
+- A button with no visible label, with class android.view.view[4], inside androidx.recyclerview.widget.recyclerview
+- A button with no visible label, with class androidx.compose.ui.platform.composeview[5], inside androidx.recyclerview.widget.recyclerview
+- A button with no visible label, with class android.view.view[0], inside androidx.compose.ui.platform.composeview
+- A button labeled "recently viewed", with class android.view.view[0], inside android.view.view
+- A button labeled "recently viewed", with class android.widget.textview[0], inside android.view.view
+- A button with no visible label, with class android.view.view[6], inside androidx.recyclerview.widget.recyclerview
+- A button with no visible label, with class android.widget.framelayout[1], inside android.widget.linearlayout
+- A button described as "home", with class android.widget.framelayout[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.framelayout[1], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.imageview[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[1], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.imageview[0], inside android.widget.framelayout
+- A button described as "trips", with class android.widget.framelayout[2], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.imageview[0], inside android.widget.framelayout
+- A button described as "review", with class android.widget.framelayout[3], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.framelayout[1], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.imageview[0], inside android.widget.framelayout
+- A button described as "account", with class android.widget.framelayout[4], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.framelayout[1], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.imageview[0], inside android.widget.framelayout
+- A button with no visible label, with class android.view.view[1], inside android.widget.framelayout
+
+Previously clicked buttons in this session:
+- A button described as "search", with class android.widget.framelayout[1], inside android.view.viewgroup
+Next button selected: Irving (new)
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.framelayout[0]
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.view.viewgroup
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "0", with class android.widget.button[2], inside android.view.viewgroup
+- A button labeled "0", with class android.widget.textview[0], inside android.widget.button
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.scrollview[0], inside android.view.view
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button described as "order pickup", with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "continue to cart (3)", with class android.widget.textview[1], inside android.widget.button
+- A button labeled "", with class android.widget.button[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "order delivery", with class android.widget.textview[1], inside android.widget.button
+- A button described as "home, home", with class android.view.view[1], inside android.view.viewgroup
+- A button labeled "home", with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[1], inside android.view.view
+- A button described as "home", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "home", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "menu", with class android.view.view[1], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "menu", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "menu", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "my code", with class android.view.view[2], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "my code", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "my code", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "offers", with class android.view.view[3], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "offers", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "offers", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "rewards", with class android.view.view[4], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "rewards", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rewards", with class android.widget.imageview[0], inside android.widget.framelayout
+
+Previously clicked buttons in this session:
+- A button labeled "offers", with class android.view.view[3], inside android.view.view
+Next button selected: Offers, Offers
+Reason: Button 42 labeled "Offers" (new) suggests forward navigation to a screen where new offers or deals might be available, which is likely unexplored UI.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.framelayout[0]
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.view.viewgroup
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "0", with class android.widget.button[2], inside android.view.viewgroup
+- A button labeled "0", with class android.widget.textview[0], inside android.widget.button
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.scrollview[0], inside android.view.view
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button described as "order pickup", with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "continue to cart (3)", with class android.widget.textview[1], inside android.widget.button
+- A button labeled "", with class android.widget.button[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "order delivery", with class android.widget.textview[1], inside android.widget.button
+- A button described as "home, home", with class android.view.view[1], inside android.view.viewgroup
+- A button labeled "home", with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[1], inside android.view.view
+- A button described as "home", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "home", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "menu", with class android.view.view[1], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "menu", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "menu", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "my code", with class android.view.view[2], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "my code", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "my code", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "offers", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "offers", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "rewards", with class android.view.view[4], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "rewards", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rewards", with class android.widget.imageview[0], inside android.widget.framelayout
+
+Previously clicked buttons in this session:
+- A button labeled "offers", with class android.view.view[3], inside android.view.view
+- A button labeled "continue to cart (3)", with class android.widget.textview[1], inside android.widget.button
+Next button selected: Continue to Cart (3)
+Reason: The button is marked as (new) and suggests forward navigation, likely leading to the cart UI which could be unexplored for the current session.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.framelayout[0]
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.view.viewgroup
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "0", with class android.widget.button[2], inside android.view.viewgroup
+- A button labeled "0", with class android.widget.textview[0], inside android.widget.button
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.scrollview[0], inside android.view.view
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button described as "order pickup", with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "", with class android.widget.button[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "order delivery", with class android.widget.textview[1], inside android.widget.button
+- A button described as "home, home", with class android.view.view[1], inside android.view.viewgroup
+- A button labeled "home", with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[1], inside android.view.view
+- A button described as "home", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "home", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "menu", with class android.view.view[1], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "menu", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "menu", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "my code", with class android.view.view[2], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "my code", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "my code", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "offers", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "offers", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "rewards", with class android.view.view[4], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "rewards", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rewards", with class android.widget.imageview[0], inside android.widget.framelayout
+
+Previously clicked buttons in this session:
+- A button labeled "offers", with class android.view.view[3], inside android.view.view
+- A button labeled "continue to cart (3)", with class android.widget.textview[1], inside android.widget.button
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+Next button selected: Navigate to account menu
+Reason: The button has a clear navigation intent and is marked as (new), indicating it's likely to lead to unexplored sections of the app. Additionally, it hasn't been clicked before based on the click history.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.framelayout[0]
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.view.viewgroup
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "0", with class android.widget.button[2], inside android.view.viewgroup
+- A button labeled "0", with class android.widget.textview[0], inside android.widget.button
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.scrollview[0], inside android.view.view
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button described as "order pickup", with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "", with class android.widget.button[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "order delivery", with class android.widget.textview[1], inside android.widget.button
+- A button described as "home, home", with class android.view.view[1], inside android.view.viewgroup
+- A button labeled "home", with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[1], inside android.view.view
+- A button described as "home", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "home", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "menu", with class android.view.view[1], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "menu", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "menu", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "my code", with class android.view.view[2], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "my code", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "my code", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "offers", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "offers", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "rewards", with class android.view.view[4], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "rewards", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rewards", with class android.widget.imageview[0], inside android.widget.framelayout
+
+Previously clicked buttons in this session:
+- A button labeled "offers", with class android.view.view[3], inside android.view.view
+- A button labeled "continue to cart (3)", with class android.widget.textview[1], inside android.widget.button
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "order pickup", with class android.view.viewgroup[1], inside android.view.viewgroup
+Next button selected: Order Pickup
+Reason: This button has not been clicked before, is marked as (new), and suggests forward navigation to a potential order feature or screen.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.framelayout[0]
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.view.viewgroup
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "0", with class android.widget.button[2], inside android.view.viewgroup
+- A button labeled "0", with class android.widget.textview[0], inside android.widget.button
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.scrollview[0], inside android.view.view
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button described as "order pickup", with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "continue to cart (3)", with class android.widget.textview[1], inside android.widget.button
+- A button labeled "", with class android.widget.button[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "order delivery", with class android.widget.textview[1], inside android.widget.button
+- A button described as "home, home", with class android.view.view[1], inside android.view.viewgroup
+- A button labeled "home", with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[1], inside android.view.view
+- A button described as "home", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "home", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "menu", with class android.view.view[1], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "menu", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "menu", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "my code", with class android.view.view[2], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "my code", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "my code", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "offers", with class android.view.view[3], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "offers", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "offers", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "rewards", with class android.view.view[4], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "rewards", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rewards", with class android.widget.imageview[0], inside android.widget.framelayout
+
+Previously clicked buttons in this session:
+- A button labeled "continue to cart (3)", with class android.widget.textview[1], inside android.widget.button
+Next button selected: Continue to Cart (3)
+Reason: This button is marked as (new) and suggests a forward navigation action that will likely lead to a different part of the app related to the shopping cart.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.framelayout[0]
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.view.viewgroup
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "0", with class android.widget.button[2], inside android.view.viewgroup
+- A button labeled "0", with class android.widget.textview[0], inside android.widget.button
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.scrollview[0], inside android.view.view
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button described as "order pickup", with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "", with class android.widget.button[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "order delivery", with class android.widget.textview[1], inside android.widget.button
+- A button described as "home, home", with class android.view.view[1], inside android.view.viewgroup
+- A button labeled "home", with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[1], inside android.view.view
+- A button described as "home", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "home", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "menu", with class android.view.view[1], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "menu", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "menu", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "my code", with class android.view.view[2], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "my code", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "my code", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "offers", with class android.view.view[3], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "offers", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "offers", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "rewards", with class android.view.view[4], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "rewards", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rewards", with class android.widget.imageview[0], inside android.widget.framelayout
+
+Previously clicked buttons in this session:
+- A button labeled "continue to cart (3)", with class android.widget.textview[1], inside android.widget.button
+- A button described as "order pickup", with class android.view.viewgroup[1], inside android.view.viewgroup
+Next button selected: Order Pickup
+Reason: The button "Order Pickup" is marked as new and suggests a forward navigation by potentially leading to a pickup order screen, which likely corresponds to unexplored UI within the app.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.framelayout[0]
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.view.viewgroup
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "0", with class android.widget.button[2], inside android.view.viewgroup
+- A button labeled "0", with class android.widget.textview[0], inside android.widget.button
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.scrollview[0], inside android.view.view
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "", with class android.widget.button[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "order delivery", with class android.widget.textview[1], inside android.widget.button
+- A button described as "home, home", with class android.view.view[1], inside android.view.viewgroup
+- A button labeled "home", with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[1], inside android.view.view
+- A button described as "home", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "home", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "menu", with class android.view.view[1], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "menu", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "menu", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "my code", with class android.view.view[2], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "my code", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "my code", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "offers", with class android.view.view[3], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "offers", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "offers", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "rewards", with class android.view.view[4], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "rewards", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rewards", with class android.widget.imageview[0], inside android.widget.framelayout
+
+Previously clicked buttons in this session:
+- A button labeled "continue to cart (3)", with class android.widget.textview[1], inside android.widget.button
+- A button described as "order pickup", with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.button[1], inside android.view.viewgroup
+Next button selected: Order Delivery
+Reason: The "Order Delivery" button is marked as (new) and is likely to lead to a different section of the app dedicated to delivery options, providing access to unexplored UI.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.framelayout[0]
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.view.viewgroup
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "0", with class android.widget.button[2], inside android.view.viewgroup
+- A button labeled "0", with class android.widget.textview[0], inside android.widget.button
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.scrollview[0], inside android.view.view
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "order delivery", with class android.widget.textview[1], inside android.widget.button
+- A button described as "home, home", with class android.view.view[1], inside android.view.viewgroup
+- A button labeled "home", with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[1], inside android.view.view
+- A button described as "home", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "home", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "menu", with class android.view.view[1], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "menu", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "menu", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "my code", with class android.view.view[2], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "my code", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "my code", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "offers", with class android.view.view[3], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "offers", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "offers", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "rewards", with class android.view.view[4], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "rewards", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rewards", with class android.widget.imageview[0], inside android.widget.framelayout
+
+Previously clicked buttons in this session:
+- A button labeled "continue to cart (3)", with class android.widget.textview[1], inside android.widget.button
+- A button described as "order pickup", with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.button[1], inside android.view.viewgroup
+- A button labeled "menu", with class android.view.view[1], inside android.view.view
+Next button selected: Menu
+Reason: The "Menu" button is marked as new and suggests navigation to a section of the app that may not have been explored, potentially leading to further options or features.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.framelayout[0]
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.view.viewgroup
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "0", with class android.widget.button[2], inside android.view.viewgroup
+- A button labeled "0", with class android.widget.textview[0], inside android.widget.button
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.scrollview[0], inside android.view.view
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rise & shine with bk® breakfast.", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "", with class android.widget.button[0], inside android.view.viewgroup
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "", with class android.widget.textview[0], inside android.widget.button
+- A button labeled "order delivery", with class android.widget.textview[1], inside android.widget.button
+- A button described as "home, home", with class android.view.view[1], inside android.view.viewgroup
+- A button labeled "home", with class android.view.view[0], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[1], inside android.view.view
+- A button described as "home", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "home", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "menu", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "menu", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "my code", with class android.view.view[2], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "my code", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "my code", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "offers", with class android.view.view[3], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "offers", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "offers", with class android.widget.imageview[0], inside android.widget.framelayout
+- A button labeled "rewards", with class android.view.view[4], inside android.view.view
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.view
+- A button described as "rewards", with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "rewards", with class android.widget.imageview[0], inside android.widget.framelayout
+
+Previously clicked buttons in this session:
+- A button labeled "continue to cart (3)", with class android.widget.textview[1], inside android.widget.button
+- A button described as "order pickup", with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button labeled "", with class android.widget.button[1], inside android.view.viewgroup
+- A button labeled "menu", with class android.view.view[1], inside android.view.view
+- A button labeled "", with class android.widget.button[1], inside android.view.viewgroup
+Next button selected: Order Delivery
+Reason: The "Order Delivery" button is marked as (new) and suggests forward navigation to an unexplored section related to ordering delivery, which has not been explored yet according to the click history.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button described as "navigate to account menu", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "0 crown points", with class android.widget.button[2], inside android.view.viewgroup
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button described as "order pickup", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "order delivery", with class android.widget.button[1], inside android.view.viewgroup
+- A button described as "home, home", with class android.view.view[0], inside android.view.view
+- A button described as "menu, menu", with class android.view.view[1], inside android.view.view
+- A button described as "my code, my code", with class android.view.view[2], inside android.view.view
+- A button described as "offers, offers", with class android.view.view[3], inside android.view.view
+- A button described as "rewards, rewards", with class android.view.view[4], inside android.view.view
+
+Previously clicked buttons in this session:
+Next button selected: "Rise & shine with BK® breakfast."
+Reason: This button likely leads to a new UI dedicated to their breakfast menu or promotional content related to breakfast, unlike navigation buttons that tend to return to familiar screens.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button described as "navigate to account menu", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "0 crown points", with class android.widget.button[2], inside android.view.viewgroup
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button described as "order pickup", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "order delivery", with class android.widget.button[1], inside android.view.viewgroup
+- A button described as "home, home", with class android.view.view[0], inside android.view.view
+- A button described as "menu, menu", with class android.view.view[1], inside android.view.view
+- A button described as "my code, my code", with class android.view.view[2], inside android.view.view
+- A button described as "offers, offers", with class android.view.view[3], inside android.view.view
+- A button described as "rewards, rewards", with class android.view.view[4], inside android.view.view
+
+Previously clicked buttons in this session:
+Next button selected: "Menu, Menu" (new)
+Reason: Selecting the "Menu" button is most likely to lead to a new user interface that displays the food items and categories available for selection.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button described as "navigate to account menu", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "0 crown points", with class android.widget.button[2], inside android.view.viewgroup
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button described as "order pickup", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "order delivery", with class android.widget.button[1], inside android.view.viewgroup
+- A button described as "home, home", with class android.view.view[0], inside android.view.view
+- A button described as "menu, menu", with class android.view.view[1], inside android.view.view
+- A button described as "my code, my code", with class android.view.view[2], inside android.view.view
+- A button described as "offers, offers", with class android.view.view[3], inside android.view.view
+- A button described as "rewards, rewards", with class android.view.view[4], inside android.view.view
+
+Previously clicked buttons in this session:
+Next button selected: "Primary Navigation"
+Reason: Typically, a "Primary Navigation" button is used to access the main menu or navigation options, likely leading to a new user interface where users can explore further categories or functionalities.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button described as "navigate to account menu", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "0 crown points", with class android.widget.button[2], inside android.view.viewgroup
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button described as "order pickup", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "order delivery", with class android.widget.button[1], inside android.view.viewgroup
+- A button described as "home, home", with class android.view.view[0], inside android.view.view
+- A button described as "menu, menu", with class android.view.view[1], inside android.view.view
+- A button described as "my code, my code", with class android.view.view[2], inside android.view.view
+- A button described as "offers, offers", with class android.view.view[3], inside android.view.view
+- A button described as "rewards, rewards", with class android.view.view[4], inside android.view.view
+
+Previously clicked buttons in this session:
+Next button selected: "Primary Navigation"
+Reason: "Primary Navigation" is likely to lead to a new UI as it suggests opening a main menu or navigation panel, which typically presents different or additional interface elements.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button described as "navigate to account menu", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "0 crown points", with class android.widget.button[2], inside android.view.viewgroup
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button described as "order pickup", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "order delivery", with class android.widget.button[1], inside android.view.viewgroup
+- A button described as "home, home", with class android.view.view[0], inside android.view.view
+- A button described as "menu, menu", with class android.view.view[1], inside android.view.view
+- A button described as "my code, my code", with class android.view.view[2], inside android.view.view
+- A button described as "offers, offers", with class android.view.view[3], inside android.view.view
+- A button described as "rewards, rewards", with class android.view.view[4], inside android.view.view
+
+Previously clicked buttons in this session:
+Next button selected: "Order Delivery" (new)
+Reason: This button is most likely to lead to a new UI as it typically involves selecting delivery options, entering address information, and viewing multiple steps of the ordering process.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button described as "navigate to account menu", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "0 crown points", with class android.widget.button[2], inside android.view.viewgroup
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button described as "order pickup", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "order delivery", with class android.widget.button[1], inside android.view.viewgroup
+- A button described as "home, home", with class android.view.view[0], inside android.view.view
+- A button described as "menu, menu", with class android.view.view[1], inside android.view.view
+- A button described as "my code, my code", with class android.view.view[2], inside android.view.view
+- A button described as "offers, offers", with class android.view.view[3], inside android.view.view
+- A button described as "rewards, rewards", with class android.view.view[4], inside android.view.view
+
+Previously clicked buttons in this session:
+Next button selected: "Order Pickup"
+Reason: Clicking "Order Pickup" is likely to lead to a new UI related to selecting or customizing an order for pickup, potentially involving menu navigation, item selection, and checkout processes, thus causing a significant change in the user interface.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button described as "navigate to account menu", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "0 crown points", with class android.widget.button[2], inside android.view.viewgroup
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button described as "order pickup", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "order delivery", with class android.widget.button[1], inside android.view.viewgroup
+- A button described as "home, home", with class android.view.view[0], inside android.view.view
+- A button described as "menu, menu", with class android.view.view[1], inside android.view.view
+- A button described as "my code, my code", with class android.view.view[2], inside android.view.view
+- A button described as "offers, offers", with class android.view.view[3], inside android.view.view
+- A button described as "rewards, rewards", with class android.view.view[4], inside android.view.view
+
+Previously clicked buttons in this session:
+Next button selected: "Rise & shine with BK® breakfast."
+Reason: This button likely leads to a new UI since it seems to be promoting a specific feature or campaign (BK® breakfast), which often involves directing users to a detailed page or section presenting more information or options related to the promotion.
+----------------------------------------------------------------------------------------------------
+You are viewing a mobile screen with the following clickable UI elements:
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.widget.framelayout
+- A button with no visible label, with class android.widget.framelayout[0], inside android.widget.linearlayout
+- A button described as "primary navigation", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.viewgroup
+- A button described as "burger king logo. navigate to home", with class android.view.view[0], inside android.view.view
+- A button described as "navigate to account menu", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "0 crown points", with class android.widget.button[2], inside android.view.viewgroup
+- A button with no visible label, with class android.view.view[1], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button described as "rise & shine with bk® breakfast.", with class android.view.viewgroup[0], inside android.view.viewgroup
+- A button with no visible label, with class android.widget.linearlayout[0], inside android.view.viewgroup
+- A button with no visible label, with class android.view.viewgroup[1], inside android.view.viewgroup
+- A button described as "order pickup", with class android.widget.button[0], inside android.view.viewgroup
+- A button described as "order delivery", with class android.widget.button[1], inside android.view.viewgroup
+- A button described as "home, home", with class android.view.view[0], inside android.view.view
+- A button described as "menu, menu", with class android.view.view[1], inside android.view.view
+- A button described as "my code, my code", with class android.view.view[2], inside android.view.view
+- A button described as "offers, offers", with class android.view.view[3], inside android.view.view
+- A button described as "rewards, rewards", with class android.view.view[4], inside android.view.view
+
+Previously clicked buttons in this session:
+Next button selected: "Order Delivery" (new)
+Reason: Clicking "Order Delivery" is likely to lead to a new UI related to delivery options, such as choosing items for delivery, entering a delivery address, or viewing delivery status.
+----------------------------------------------------------------------------------------------------
